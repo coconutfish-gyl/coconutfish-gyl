@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++/c.
 - 📫 How to reach me email address:1955865663@qq.com
 - 😄 Pronouns: coconutfish/ccnt/ccntfish
-- ⚡ Fun fact: I'm OIer in China.
+- BOer
 
 <!---
 coconutfish-gyl/coconutfish-gyl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
